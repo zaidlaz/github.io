@@ -45,6 +45,7 @@ strict security, compliance, and uptime requirements.
 
 ### Hobbies and Social
 - Badminton
+- Cycling
 - Grassroot Leader at Woodlands Zone 4 Resident Network
 
 ---
