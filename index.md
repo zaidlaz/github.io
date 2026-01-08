@@ -17,7 +17,7 @@ mission-critical systems.
 - Troubleshooting
 - HA clusters
 - VMware, SAN storage
-- Bash, Python, Ansible
+- Bash, Python
 - Incident response & RCA
 - Vendor Management
 - Performance Tuning
@@ -30,7 +30,22 @@ strict security, compliance, and uptime requirements.
 
 ---
 
+### Interest
+Cloud Engineering
+AWS Certified Cloud Practioner
+AWS Certified AI Practioner
+
+---
+
+### Hobbies and Social
+Badminton
+Grassroot Leader at Woodlands Zone 4 Resident Network
+
+---
+
 ### Contact
 - Email: diazlaz13@gmail.com / lazimzaid@yahoo.com.sg
 - GitHub: https://github.com/zaidlaz
 - LinkedIn: https://www.linkedin.com/in/zaidlaz/
+
+
