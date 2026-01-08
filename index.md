@@ -14,10 +14,13 @@ mission-critical systems.
 
 ### Core Skills
 - RHEL 6/7/8, CentOS
-- Pacemaker / HA clusters
+- Troubleshooting
+- HA clusters
 - VMware, SAN storage
 - Bash, Python, Ansible
 - Incident response & RCA
+- Vendor Management
+- Performance Tuning
 
 ---
 
