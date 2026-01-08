@@ -38,8 +38,8 @@ strict security, compliance, and uptime requirements.
 
 ### Interest
 - Cloud Engineering
-- AWS Certified Cloud Practioner
-- AWS Certified AI Practioner
+- AWS Certified Cloud Practioner https://cp.certmetrics.com/amazon/en/public/verify/credential/XPEQ8992L2F41W3Q
+- AWS Certified AI Practioner https://cp.certmetrics.com/amazon/en/public/verify/credential/22fa0a7d600a4bdd909faba431db1953
 
 ---
 
