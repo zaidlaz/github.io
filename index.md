@@ -1,58 +1,91 @@
 # Zaid Lazim
-## Senior Systems Engineer – Banking IT Infrastructure
+### Senior Systems Engineer – Enterprise IT Infrastructure
 
-Enterprise Linux | High Availability | Automation | Production Support
-
----
-
-### Professional Summary
-Qualified senior IT professional with more than 20 years 
-of experience in systems engineering and solution architecture 
-development in diverse roles across the organizational hierarchy. 
-Distinguished for consistently enhancing client satisfaction by 
-rendering superior quality service across professional career; 
-exploring challenging assignments with a professionally managed 
-organization.
+Enterprise Linux | High Availability | Automation | 24x7 Production Operations
 
 ---
 
-### Core Skills
-- IT Infrastructure
-- RHEL Enterprise Linux
-- System Administration
-- Troubleshooting
-- HA clusters
-- VMware, SAN storage
-- Bash, Python
-- Incident response & RCA
+## EXECUTIVE PROFILE
+Senior Systems Engineer with over 20 years of experience delivering
+stable, secure, and highly available IT infrastructure across
+banking, telecommunications, and manufacturing environments.
+
+Recognised for operational excellence, disciplined incident management,
+and the ability to support mission-critical systems under strict
+regulatory, security, and uptime requirements.
+
+---
+
+## INDUSTRY DOMAIN EXPERIENCE
+
+**Banking**
+- Mission-critical production systems in highly regulated environments
+- Strong exposure to security controls, audits, change management, and SLAs
+- Emphasis on risk mitigation, resilience, and availability
+
+**Telecommunications**
+- Large-scale, always-on infrastructure platforms
+- Performance-sensitive and high-availability environments
+- 24x7 operations, incident response, and service restoration
+
+**Manufacturing**
+- Infrastructure supporting production and operational workflows
+- Business continuity–focused system support
+- Hybrid and legacy environment exposure
+
+---
+
+## CORE TECHNICAL COMPETENCIES
+
+**Infrastructure & Platforms**
+- Enterprise IT Infrastructure
+- RHEL Enterprise Linux (6 / 7 / 8)
+- VMware & SAN Storage
+- High Availability Clusters
+
+**Operations & Reliability**
+- System Administration & Troubleshooting
+- Incident Response & Root Cause Analysis (RCA)
+- Server Performance Analysis & Capacity Planning
+
+**Automation & Scripting**
+- Bash
+- Python
+- Operational Automation
+
+**Governance & Stakeholders**
 - Vendor Management
-- Server Performance Analysis
+- Audit & Compliance Support
+- Change & Release Management
 
 ---
 
-### Enterprise Experience
-Supported large-scale banking systems with
-strict security, compliance, and uptime requirements.
+## ENTERPRISE DELIVERY EXPERIENCE
+Proven experience supporting large-scale enterprise environments with
+strict security, compliance, and uptime requirements.  
+Comfortable operating within ITIL-aligned processes and collaborating
+with cross-functional teams in high-pressure production settings.
 
 ---
 
-### Interest
-- Cloud Engineering
-- AWS Certified Cloud Practioner https://cp.certmetrics.com/amazon/en/public/verify/credential/XPEQ8992L2F41W3Q
-- AWS Certified AI Practioner https://cp.certmetrics.com/amazon/en/public/verify/credential/22fa0a7d600a4bdd909faba431db1953
+## PROFESSIONAL DEVELOPMENT
+
+- **AWS Certified Cloud Practitioner**  
+  https://cp.certmetrics.com/amazon/en/public/verify/credential/XPEQ8992L2F41W3Q
+- **AWS Certified AI Practitioner**  
+  https://cp.certmetrics.com/amazon/en/public/verify/credential/22fa0a7d600a4bdd909faba431db1953
+- Ongoing upskilling in Cloud Engineering and Infrastructure Modernisation
 
 ---
 
-### Hobbies and Social
+## COMMUNITY & PERSONAL INTERESTS
 - Badminton
 - Cycling
-- Grassroot Leader at Woodlands Zone 4 Resident Network
+- Grassroots Leader – Woodlands Zone 4 Resident Network
 
 ---
 
-### Contact
-- Email: diazlaz13@gmail.com / lazimzaid@yahoo.com.sg
-- GitHub: https://zaidlaz.github.io/github.io/
-- LinkedIn: https://www.linkedin.com/in/zaidlaz/
-
-
+## CONTACT
+📧 diazlaz13@gmail.com | lazimzaid@yahoo.com.sg  
+🔗 GitHub: https://zaidlaz.github.io/github.io/  
+🔗 LinkedIn: https://www.linkedin.com/in/zaidlaz/
