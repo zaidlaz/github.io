@@ -45,7 +45,7 @@ Grassroot Leader at Woodlands Zone 4 Resident Network
 
 ### Contact
 - Email: diazlaz13@gmail.com / lazimzaid@yahoo.com.sg
-- GitHub: https://github.com/zaidlaz
+- GitHub: https://zaidlaz.github.io/github.io/
 - LinkedIn: https://www.linkedin.com/in/zaidlaz/
 
 
