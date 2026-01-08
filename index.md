@@ -31,15 +31,15 @@ strict security, compliance, and uptime requirements.
 ---
 
 ### Interest
-Cloud Engineering
-AWS Certified Cloud Practioner
-AWS Certified AI Practioner
+- Cloud Engineering
+- AWS Certified Cloud Practioner
+- AWS Certified AI Practioner
 
 ---
 
 ### Hobbies and Social
-Badminton
-Grassroot Leader at Woodlands Zone 4 Resident Network
+- Badminton
+- Grassroot Leader at Woodlands Zone 4 Resident Network
 
 ---
 
