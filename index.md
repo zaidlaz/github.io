@@ -70,6 +70,8 @@ with cross-functional teams in high-pressure production settings.
 
 ## PROFESSIONAL DEVELOPMENT
 
+- **Microsoft Certified Azure Fundamentals**  
+  https://learn.microsoft.com/api/credentials/share/en-us/ZaidLazim-1251/7A114A46C5FD2CB3?sharingId=625A4076E5B3FCE2
 - **AWS Certified Cloud Practitioner**  
   https://cp.certmetrics.com/amazon/en/public/verify/credential/XPEQ8992L2F41W3Q
 - **AWS Certified AI Practitioner**  
@@ -86,6 +88,6 @@ with cross-functional teams in high-pressure production settings.
 ---
 
 ## CONTACT
-📧 diazlaz13@gmail.com | lazimzaid@yahoo.com.sg  
+📧 lazimzaid@yahoo.com.sg  
 🔗 GitHub: https://zaidlaz.github.io/github.io/  
 🔗 LinkedIn: https://www.linkedin.com/in/zaidlaz/
